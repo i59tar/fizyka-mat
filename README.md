@@ -6,6 +6,9 @@ Przydatne linki:
 https://www.youtube.com/channel/UCiGxYawhEp4QyFcX0R60YdQ
 (zagadnienia na fizykę - playlista "Modern Physics" (eng)
 
+http://www.ftj.agh.edu.pl/~wolny/index2.php.htm
+(część potrzebnych zagadnień. tekst)
+
 # 1. Zjawisko fotoelektryczne
 Filmy:
 
@@ -71,9 +74,21 @@ https://www.youtube.com/watch?v=XvId0wsEk9E  (en)
 https://www.youtube.com/watch?v=1Nw42cUSGDc  (en)
 https://www.youtube.com/watch?v=peslTFaH7Zw  (en)
 
-# 11. Statyatyki kwantowe - statystyka Fermiego i Bosego-Einsteina - poziom Fermiego
+# 11. Statystyki kwantowe - statystyka Fermiego i Bosego-Einsteina - poziom Fermiego
+
+https://www.youtube.com/watch?v=2wF_CVuWyEg  (en)
+https://www.youtube.com/watch?v=fdS12EaXH3A  (en)
+https://www.youtube.com/watch?v=xNucs-bzFtI  (en)
+
+https://pl.wikipedia.org/wiki/Poziom_Fermiego
+https://pl.wikipedia.org/wiki/Statystyka_Fermiego-Diraca
+https://pl.wikipedia.org/wiki/Statystyka_Bosego-Einsteina
+
 
 # 12. Elektronika ciał stałych - jak obsadzają nośniki - poziomy energetyczne - zakaz Pauliego
+
+https://pl.wikipedia.org/wiki/Regu%C5%82a_Pauliego
+https://www.youtube.com/watch?v=uMl9U3XHEWc  (reguła Pauliego @ 9:57)
 
 # 13. Komórki elementarne w materii, symetria translacji
 
@@ -103,7 +118,7 @@ https://www.youtube.com/watch?v=peslTFaH7Zw  (en)
 
 # 22. Dioda tunelowa
 
-# 23. Elektronika jądrwa - rozpady promieniotwórcze
+# 23. Elektronika jądra - rozpady promieniotwórcze
 
 # 24. Rozszczepienie jądra Uranu i naturalne szeregi promieniotwórcze
 

@@ -1,0 +1,28 @@
+# Zjawisko fotoelektryczne
+Fotony wybijają elektrony z powierzchni metalu, zmieniając je w "fotoelektrony".
+
+
+Wzory:
+
+- Ef = h * v   (Enegria fotonu = stała Plancka * częstotliwość) (v = c/lambda (częstotliwość = prędkość światła / długość fali)
+
+- h * v = W + Ek  (h*v = praca wyjścia (zależna od metalu) + energia kinetyczna emitowanych elektronów (1/2 * m * v^2) )
+
+Odstępstwa:
+Fotony wnikające w głąb katody (zdarza się). Uwolniony elektron może wytracić część energii na zderzenia wewn. katody.
+Duże natężenie światła (laser). Jeden elektron może zaabsorbować energię wielu fotonów.
+
+# Efekt Comptona:
+
+Związek między długością fali rozproszonego fotonu i kątem rozproszenia.
+
+Wzory:
+- lambda' - lambda = (h/mc)*(1- cos(theta))
+(długość fali rozproszonej - długość fali padającej = (stała Plancka/masa spoczynkowa elektronu * prędkość światła (1)) * (1 - cosinus kąta rozproszenia fotonu) )
+
+(1)  to jest wielkość stała, wynosi około (2.4263102175 +- 0.0000000033)*10^-12 metrów
+
+Ten wzór z kolei można przekształcić w wyrażenie na energię fotonu po rozproszeniu.
+TL:DR version:
+- E' = (h*c)/lambda' = E/(1+(E/me*c^2)*(1-cos theta))
+(Energia fotonu po rozproszeniu - stała Plancka * prędkość światła / długość fali rozproszonej = Energia fotonu przed rozproszeniem / (1+ (E.f.prz.r / masa spoczynkowa elektronu * prędkość światła^2) * (1-cosinus kąta rozproszenia) )
