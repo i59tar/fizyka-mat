@@ -12,6 +12,8 @@ http://www.ftj.agh.edu.pl/~wolny/index2.php.htm
 # 1. Zjawisko fotoelektryczne
 Filmy:
 
+https://www.youtube.com/watch?v=VkHHc5jzwZ0  (wykład - pl)
+
 https://www.youtube.com/watch?v=Ey25vULQ6YM  (wykład - eng)
 
 https://www.youtube.com/watch?v=vuGpUFjLaYE  (eng)

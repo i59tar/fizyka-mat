@@ -1,6 +1,6 @@
 # Zjawisko fotoelektryczne
-Fotony wybijają elektrony z powierzchni metalu, zmieniając je w "fotoelektrony".
 
+Fotony światła UV wybijają elektrony z powierzchni metalu, zmieniając je w "fotoelektrony".
 
 Wzory:
 
@@ -8,9 +8,9 @@ Wzory:
 
 - h * v = W + Ek  (h*v = praca wyjścia (zależna od metalu) + energia kinetyczna emitowanych elektronów (1/2 * m * v^2) )
 
-Odstępstwa:
-Fotony wnikające w głąb katody (zdarza się). Uwolniony elektron może wytracić część energii na zderzenia wewn. katody.
-Duże natężenie światła (laser). Jeden elektron może zaabsorbować energię wielu fotonów.
+Efekt zachodzi natychmiastowo. Prędkość fotoelektronu zależy od długości fali. Ilość fotoelektronów jest proporcjonalna do natężenia światła.
+
+Jeżeli długość fali jest duża, zjawisko może nigdy nie nastąpić - dla niektórych metali.
 
 # Efekt Comptona:
 
