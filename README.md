@@ -12,7 +12,7 @@ http://www.ftj.agh.edu.pl/~wolny/index2.php.htm
 # 1. Zjawisko fotoelektryczne
 Filmy:
 
-https://www.youtube.com/watch?v=VkHHc5jzwZ0  (wykład - pl)
+https://www.youtube.com/watch?v=VkHHc5jzwZ0  (wykład - pl) (31:30 - beka z ciot nie umiejących wzoru na drogę w jednostajnym prostoliniowym)
 
 https://www.youtube.com/watch?v=Ey25vULQ6YM  (wykład - eng)
 
@@ -23,6 +23,8 @@ https://www.youtube.com/watch?v=GUyo5U20fd4  (eng)
 https://www.youtube.com/watch?v=v-1zjdUTu0o  (doświadczenie - eng)
 
 # 2. Efekt Comptona
+
+https://www.youtube.com/watch?v=4DTEVh-UwXo  (pl)
 
 https://www.youtube.com/watch?v=-09DCaDmMIs  (eng)
 
@@ -35,6 +37,10 @@ https://www.youtube.com/watch?v=aHELszra0nU (dicksoutforHarambe)
 https://www.youtube.com/watch?v=e7vk7aD1XbI  (eng)
 
 http://www.if.pw.edu.pl/~pluta/pl/dyd/mfj/wyklad/w2/segment7/main.htm  (pl, tekst)
+
+https://www.youtube.com/watch?v=45fKokgpPQ0  (eng)
+
+https://en.wikipedia.org/wiki/X-ray
 
 # 4. X-ray - wykres Moseley'a
 

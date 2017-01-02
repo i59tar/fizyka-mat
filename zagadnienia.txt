@@ -7,14 +7,18 @@ Wzory:
 - Ef = h * v   (Enegria fotonu = stała Plancka * częstotliwość) (v = c/lambda (częstotliwość = prędkość światła / długość fali)
 
 - h * v = W + Ek  (h*v = praca wyjścia (zależna od metalu) + energia kinetyczna emitowanych elektronów (1/2 * m * v^2) )
+-> Ek = h*v - W
 
 Efekt zachodzi natychmiastowo. Prędkość fotoelektronu zależy od długości fali. Ilość fotoelektronów jest proporcjonalna do natężenia światła.
 
 Jeżeli długość fali jest duża, zjawisko może nigdy nie nastąpić - dla niektórych metali.
 
+stała Plancka h = 6.625*(10^-34) [J*s]
+              h = 4,136*(10^-15) [eV*s]
+
 # Efekt Comptona:
 
-Związek między długością fali rozproszonego fotonu i kątem rozproszenia.
+Foton względem elektronów zachowuje się jak kula do bilarda. Odbija się, transferuje energię, (zmniejsza swoją energię podczas gdy elektron zwiększa swoją energię) itp. 
 
 Wzory:
 - lambda' - lambda = (h/mc)*(1- cos(theta))
@@ -26,3 +30,17 @@ Ten wzór z kolei można przekształcić w wyrażenie na energię fotonu po rozp
 TL:DR version:
 - E' = (h*c)/lambda' = E/(1+(E/me*c^2)*(1-cos theta))
 (Energia fotonu po rozproszeniu - stała Plancka * prędkość światła / długość fali rozproszonej = Energia fotonu przed rozproszeniem / (1+ (E.f.prz.r / masa spoczynkowa elektronu * prędkość światła^2) * (1-cosinus kąta rozproszenia) )
+
+Widmo promieniowania x-ray
+
+Generowanie:
+1. Elektron swobodny wybija elektron z wnętrza atomu (powłoki niewalencyjnej). Elektron z dalszej powłoki przechodzi w głąb, i w celu wyrównania energii emituje X-ray
+2. Bremsstrahlung - elektron swobodny przechodzi blisko nukleonu atomu, jest przez niego spowolniony. Różnica w energii jest emitowana jako X-ray.
+
+Widmo - Długości fali elektronów, przy których zachodzi zdarzenie 1, są charakterystyczne. Różnią się zależnie od zastosowanego materiału (anody). Przy tych długościach częstotliwość emisji x-ray jest znacznie wyższa niż przy tych, które wywołują zdarzenie 2 (bremsstrahlung).
+
+Wzory:
+- Ex (max) = Eki = h*v (max) (energia promieniowania maksymalna = stała Plancka * częstotliwość maksymalna)
+- v (max) = c/lambda (min) (częstotliwość maksymalna = prędkość światła / długość fali minimalna)
+
+ 
